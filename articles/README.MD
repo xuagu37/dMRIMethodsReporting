@@ -8,4 +8,4 @@ A list of articles with fulltext access on PubMed from pubmed_result.csv, 2260 a
 We randomly select 300 articles from pubmed_result_fulltext.mat  
 
 # pubmed_result_evaluation_color.xlsm  
-Evaluation in progress.
+60/300 finished. Evaluation in progress.
